@@ -1,0 +1,9 @@
+.propImage{
+    margin-top: 5px;
+    width: 250px;
+    height: 150px;
+}
+
+.card{
+    box-shadow: 0 0 30px #000000;
+}
